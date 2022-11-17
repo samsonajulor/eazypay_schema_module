@@ -1,5 +1,5 @@
 const User = require('./models/user');
-const graphQlSchema = require('./graphql/schema');
+const graphQlSchema = require('./schema');
 
 
 module.exports = {
